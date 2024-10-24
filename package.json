@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "vue": "2.6.10",
+    "vue": "3.0.0",
     "vue-router": "^3.0.2"
   },
   "devDependencies": {
